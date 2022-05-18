@@ -1,7 +1,7 @@
 # CatUserbot
 A simple Telegram userbot based on Telethon .
 ![catuserbot logo](https://telegra.ph/file/635f14a5c5bdb8289a5b0.jpg)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/TgCatUB/catuserbot)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsandy1709%2FArceusBot&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/TgCatUB/catuserbot)
 [![CodeFactor](https://www.codefactor.io/repository/github/TgCatUB/catuserbot/badge?&style=flat-square)](https://www.codefactor.io/repository/github/TgCatUB/catuserbot)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/TgCatUB/catuserbot/graphs/commit-activity) 
