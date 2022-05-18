@@ -1,6 +1,6 @@
 # CatUserbot
 A simple Telegram userbot based on Telethon .
-![catuserbot logo](https://telegra.ph/file/4860c8e1a5a56d0616b79.png)
+![catuserbot logo](https://telegra.ph/file/635f14a5c5bdb8289a5b0.jpg)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/TgCatUB/catuserbot)
 [![CodeFactor](https://www.codefactor.io/repository/github/TgCatUB/catuserbot/badge?&style=flat-square)](https://www.codefactor.io/repository/github/TgCatUB/catuserbot)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -25,15 +25,10 @@ A simple Telegram userbot based on Telethon .
   - [check this](https://catuserbot.gitbook.io/catuserbot/tutorial/self-host)
   
 ## Support
-   <a href="https://t.me/catuserbot17"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
-   <a href="https://t.me/catuserbot_support"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/Arceus189"><img src="https://telegra.ph/file/635f14a5c5bdb8289a5b0.jpg" width=220px></a></p>
+   <a href="https://t.me/Arceus189"><img src="https://telegra.ph/file/635f14a5c5bdb8289a5b0.jpg" width=220px></a></p>
    
-## Inspiration
-   - [X-tra-Telegram](https://github.com/Dark-Princ3/X-tra-Telegram)
-   - [Uniborg](https://github.com/SpEcHiDe/UniBorg) & [Uniborg fork](https://github.com/ravana69/PornHub)
-   - Nana-Remix
-   - [Userge-X](https://github.com/code-rgb/USERGE-X/)
-   
+
 ## Disclaimer
 
 ```
@@ -55,6 +50,4 @@ Thanks for using our bot 😺
 ```
 
 ## Credits
-   - Special thanks to [LonamiWebs](https://github.com/LonamiWebs/Telethon/) for Telethon library.
-   - To all devs of these [Userbots](https://github.com/TgCatUB/catuserbot/tree/bugs#inspiration)
-   - Finally to all [contributors of Catuserbot](https://github.com/TgCatUB/catuserbot/graphs/contributors)
+   - to ken kaneki pro
